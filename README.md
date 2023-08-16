@@ -15,4 +15,4 @@ Project was done in following steps:
 
 Hosted webpage link: http://dsagroup8.pythonanywhere.com
 
-Google Drive Link of dataset and pkl file: 
+Google Drive Link of dataset and pkl file: https://drive.google.com/drive/folders/1DCTCGvKNq0s4HNkpJR6E73VkCvUcKMX1?usp=sharing
